@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_blue_label">Blue!</string>
+    <string name="menu_green_label">Green!</string>
+    <string name="menu_red_label">Red!</string>
+</resources>
